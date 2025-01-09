@@ -24,10 +24,10 @@ h1 {
 
 .coin-flip {
   background-color: transparent;
-  width: 50vw;
-  height: 50vw;
-  max-width: 300px;
-  max-height: 300px;
+  width: 70vw;
+  height: 70vw;
+  max-width: 500px;
+  max-height: 500px;
   margin: 2vh;
   perspective: 1000px;
   cursor: pointer;
