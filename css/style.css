@@ -17,7 +17,8 @@ body, h1 {
 body {
   height: 100vh;
 }
-h1 .laminator {
+
+h1.laminator {
   height: auto;
   padding-top: 50px;
   font-family:'Special Elite';
