@@ -21,7 +21,8 @@ h1 {
   height: auto;
   padding-top: 50px;
   font-family:'Special Elite';
-  font-size:3em
+  font-size:3em;
+  color:black;
 }
 
 .coin-flip {
